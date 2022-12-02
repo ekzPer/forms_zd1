@@ -1,0 +1,12 @@
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\stu-pkspk220\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\stu-pkspk220\Desktop\зд1 Баранов Практика\1.2\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\stu-pkspk220\Desktop\зд1 Баранов Практика\1.2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\stu-pkspk220\Desktop\зд1 Баранов Практика\1.2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
